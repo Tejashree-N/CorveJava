@@ -5,25 +5,25 @@ public class primitiveDT {
 	public static void main(String[] args) {
 		
 		 // 2. short (2 bytes)
-        short var1 = 32000;
+        short Datatype1 = 1200;
 
         // 3. int (4 bytes)
-        int var2 = 100000;
+        int Datatype2 = 10;
 
         // 4. long (8 bytes)
-        long var3  = 10000000000L;
+        long Datatype3  = 10000000000L;
 
         // 5. char (2 bytes)
-        char var4 = 'A';
+        char Datatype4 = 'A';
 
         // 6. float (4 bytes)
-        float var5 = 3.145f;
+        float Datatype5 = 5.555f;
 
         // 7. double (8 bytes)
-        double var6 = 3.14159265359;
+        double Datatype6 = 3.785559;
 
         // 8. boolean (1 bit)
-        boolean var7 = false;
+        boolean Datatype7 = true;
 
         // Non-Primitive Data Types
 
@@ -31,13 +31,13 @@ public class primitiveDT {
         String str = "tejashree";
         
         
-        System.out.println(var1);
-        System.out.println(var2);
-        System.out.println(var3);
-        System.out.println(var4);
-        System.out.println(var5);
-        System.out.println(var6);
-        System.out.println(var7);
+        System.out.println(Datatype1);
+        System.out.println(Datatype2);
+        System.out.println(Datatype3);
+        System.out.println(Datatype4);
+        System.out.println(Datatype5);
+        System.out.println(Datatype6);
+        System.out.println(Datatype7);
         System.out.println(str);
 	}
 
