@@ -1,4 +1,4 @@
-package sample;
+package oprationTypes;
 
 public class RelationalOperator {
 
