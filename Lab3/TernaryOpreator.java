@@ -1,4 +1,4 @@
-package sample;
+package oprationTypes;
 
 import java.util.Scanner;
 
