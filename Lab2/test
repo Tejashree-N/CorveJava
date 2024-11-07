@@ -1,0 +1,13 @@
+
+1. Create a Bank class and declare an instance variable named amount of type double.Create parameterized constructor to initialize variable “amount” with value 10000.Create two methods withdraw(double withdrawalAmount) and deposit(double depositAmount).Calculate withdrawal based on some condition (using ternary operator) like If amount is sufficient then “withdraw successful” message will be printed on the console and amount should be updated after withdraw. Later on, deposit 5000 in the account balance.At the end display total balance on the console.
+
+2. Write a program to input two numbers and find the maximum between two numbers using the conditional/ternary operator.
+
+3. Write a program to declare two variables num and n and take an input during compilation time to check whether the nth bit of the given number is set (1) or not (0).
+
+4.Write a program to print pattern shown as below
+ 	 	 	 	     *	
+ 	 	 	    *	 *	
+ 	 	   *	*	 *	
+ 	  *	 *	*	 *	
+* 	*	 *	*	 *
