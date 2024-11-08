@@ -1,0 +1,31 @@
+1)Bankcustomer class with acno,atype,amt fields using parameterized constructor?
+
+
+
+2)Create Emp details eid,ename,companyname using static variable,static method?
+
+
+
+3)Write a class with the name Perimeter using Menu driven(Switch case) that computes the perimeter of a square, a rectangle and a circle.
+
+
+
+
+
+Not completed: Lab5_ANP-C8001
+
+4)write a program to print given below pattern?
+
+* * * * *
+
+* * * *
+
+* * *
+
+* *
+
+*
+
+5)Program to find the year is leap year or not
+
+6)Create a program to calculate the annual salary of an employee by using inheritance. Create a class named "User" with the following properties and methods: Properties: id(int): representing the id of the User name(String):representing the name of the User Constructor: Declare parameterized constructor to initialize id and name. Create a subclass named "Employee" that inherits from the "User" class. Add the following additional properties and methods: Properties: salary(double):representing the monthly salary of the employee Method: double calculateAnnualSalary():to calculate the annual salary earned by the employee. In the main method, create an object of "Employee" class. Calculate the annual salary of the employee and display it.. [Hint:Use constructor or setter methods to set the value]
